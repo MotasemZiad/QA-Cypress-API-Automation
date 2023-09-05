@@ -6,4 +6,9 @@ module.exports = defineConfig({
       // implement node event listeners here
     },
   },
+
+  env: {
+    base_url: "https://bstackdemo.com",
+    access_key: "d26891d4e22bae416bd3fbb4260be6ee",
+  },
 });
